@@ -1,1 +1,4 @@
-# Cyx Test
+# Cynaxlabs Test
+
+yarn install
+yarn start
